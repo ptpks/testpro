@@ -1,2 +1,0 @@
-clone demo
-\n hello world
